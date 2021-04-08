@@ -1,0 +1,148 @@
+body {
+  color: #40514e;
+  margin: 0;
+  text-align: center;
+  font-family: 'Prompt', sans-serif;
+  font-size: 100%;
+}
+
+h1 {
+  margin: 0px auto 0 auto;
+  font-family: 'Sofia', cursive;
+  font-size: 5.625rem;
+  color: #a1cae2;
+}
+
+h2 {
+  color: #a1cae2;
+  font-family: 'Sofia', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: 'Questrial', sans-serif;
+  color: #a1dd70;
+}
+
+hr {
+background-color: none;
+border-style: none;
+border-top-style: dotted;
+border-color: #ffeebb;
+border-width: 30px;
+width: 650px;
+}
+
+p {
+  line-height: 2;
+}
+
+a {
+  margin: 10px 20px;
+  color: #a1cae2;
+  font-family: 'Questrial', sans-serif;
+  text-decoration: none;
+}
+a.hover {
+  color:#a1dd70;
+}
+
+.top-container {
+  background-color: #ffeebb;
+  position: relative;
+  padding-top: 15px;
+}
+
+.middle-container {
+  background-color: #ffeeff;
+  padding-bottom: 20px;
+  padding-top: 30px;
+}
+
+.bottom-container {
+  padding: 50px 0 20px;
+  background-color: #ffeebb;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.pro {
+  text-decoration: underline;
+  color: #a1cae2;
+}
+
+.girl-cloud {
+  position:absolute;
+  right:175px;
+  bottom: 350px;
+}
+
+.boy-cloud {
+  position:absolute;
+  left:175px;
+  bottom: 350px;
+}
+
+.happy-sun {
+  position:center;
+}
+
+.sm {
+  height: 300px;
+  padding-top: 10px;
+}
+
+.skills {
+  padding-top: 10px;
+}
+
+.html{
+  width: 30%;
+  float: left;
+  margin-right: 30px;
+}
+
+.css{
+  width: 30%;
+  float: right;
+  margin-left: 30px;
+}
+
+.redbutton {
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  height: 14px;
+  line-height: 14px;
+  color: #FFFFFF;
+  font-family: Questrial;
+  width: 116px;
+  font-size: 14px;
+  font-weight: 900;
+  padding: 12px;
+  background-color: #A1CAE2;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+}
+
+.redbutton:hover {
+  background: #A1DD70;
+  border: solid #FFEEFF 1px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  text-decoration: none;
+}
+
+.copyright {
+  color: #a1cae2;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
