@@ -7,7 +7,7 @@ body {
 }
 
 h1 {
-  margin: 50px auto 0 auto;
+  margin: 0px auto 0 auto;
   font-family: 'Sofia', cursive;
   font-size: 5.625rem;
   color: #a1cae2;
@@ -15,7 +15,7 @@ h1 {
 
 h2 {
   color: #a1cae2;
-  font-family: 'Questrial', sans-serif;
+  font-family: 'Sofia', sans-serif;
   font-size: 2.5rem;
   font-weight: normal;
 }
@@ -51,12 +51,13 @@ a.hover {
 .top-container {
   background-color: #ffeebb;
   position: relative;
-  padding-top: 20px;
+  padding-top: 15px;
 }
 
 .middle-container {
   background-color: #ffeeff;
   padding-bottom: 20px;
+  padding-top: 30px;
 }
 
 .bottom-container {
@@ -77,13 +78,13 @@ a.hover {
 
 .girl-cloud {
   position:absolute;
-  right:200px;
+  right:175px;
   bottom: 350px;
 }
 
 .boy-cloud {
   position:absolute;
-  left:200px;
+  left:175px;
   bottom: 350px;
 }
 
@@ -92,7 +93,7 @@ a.hover {
 }
 
 .sm {
-  height: 200px;
+  height: 300px;
   padding-top: 10px;
 }
 
@@ -119,7 +120,7 @@ a.hover {
   height: 14px;
   line-height: 14px;
   color: #FFFFFF;
-  font-family: Sofia;
+  font-family: Questrial;
   width: 116px;
   font-size: 14px;
   font-weight: 900;
